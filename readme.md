@@ -6,4 +6,4 @@
    3. No left side - turn left and walk one.
    4. Else - 180 degrees and walk one.
    The program will first display the unsolved maze.
-   Then once the maze has been solved it will display the solution.*/
+   Then once the maze has been solved it will display the solution.
